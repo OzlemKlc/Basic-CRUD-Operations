@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\basic_crud_operations.props" />
+</Project>
